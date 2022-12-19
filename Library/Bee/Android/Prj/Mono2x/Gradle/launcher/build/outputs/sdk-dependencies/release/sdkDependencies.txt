@@ -1,0 +1,25 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "NativeGallery"
+  }
+  digests {
+    sha256: "|\363ii\267N\204f\265$\004\340\341\340Y\005\377\357\305\374Dd4M\324\345\'c\356\215\206\244"
+  }
+}
+library {
+  digests {
+    sha256: "\246\252\301\353\"\341N\247\362\020[:r\222g\277\034\023\250EuhqE\177\317\345\321\207\203m\243"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 1
+}
